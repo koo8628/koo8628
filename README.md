@@ -8,6 +8,7 @@
 <li>何か</li>
 <li>何か</li>
 </ul>
-<a helf="https://prog-8.com/html/study/1/1#/9">学習アプリ</a>
+<a href="https://prog-8.com/html/study/1/1#/9">学習アプリ</a>
 
 <H2>次の名目</H2>
+
